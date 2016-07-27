@@ -4,7 +4,7 @@ shinyUI(fluidPage(
 	titlePanel('Visualize ChIP-Seq and RNA-seq data of Poplar'),
 	tags$hr(),
 	sidebarPanel(
-		helpText('Explore genes identified by and integrated approach using ChIP-Seq and RNA-Seq dataset of ', em('Populus'), ' roots under excess zinc'),
+		helpText('Explore genes identified by an integrated approach using ChIP-Seq and RNA-Seq datasets of ', em('Populus'), ' roots under excess zinc'),
 		tags$hr(),
 		selectInput('chipdata', 
 			'Select ChIP-Seq dataset',
@@ -20,6 +20,7 @@ shinyUI(fluidPage(
 			choices=c('All', 'High', 'Medium', 'Low', 'Not-Expressed')
 			)
 		)
+#	mainPanel()
 	)
 )
 		
