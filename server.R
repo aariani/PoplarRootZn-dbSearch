@@ -50,10 +50,10 @@ shinyServer(function(input, output){
 
 	output$downloaddata=downloadHandler(
 		filename=function(){
-			paste('PopZnroot_db-', Sys.Date(), '.csv', sep='')
+			paste('PopZnroot_db-', input$chipdata, '-', input$treat, '-', input$exp, '-', Sys.Date(), '.csv', sep='')
 			},
 		content=function(file){
-			write.table(data_final(), file, sep=',', col.names=T, row.names=F, quote=F)
+			write.table(data_final(), file, sep='\t', col.names=T, row.names=F, quote=F)
 			}
 		)
 	})
