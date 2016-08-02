@@ -25,6 +25,7 @@ shinyUI(fluidPage(
 	mainPanel(
 		dataTableOutput('finaldata')
 		)
+#	mainPanel()
 	)
 )
 		
