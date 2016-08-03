@@ -13,7 +13,7 @@ shinyUI(fluidPage(
 		tags$hr(),
 		selectInput('treat', 
 			'Selected Zn treatment',
-			choices=c('Control', '1mM-Zn')
+			choices=c('Both', 'Control', '1mM-Zn')
 			),
 		selectInput('exp', 
 			'Select Expression class',

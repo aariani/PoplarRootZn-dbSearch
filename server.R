@@ -3,6 +3,8 @@
 source('helper.R')
 
 h3k4=read.table('data/final_k4db.csv', sep='\t', quote='', header=T)
+h3k27=read.table('data/final_k27db.csv', sep='\t', quote='', header=T)
+h3k27up=read.table('data/final_k27updb.csv', sep='\t', quote='', header=T)
 
 shinyServer(function(input, output){
 
@@ -18,29 +20,32 @@ shinyServer(function(input, output){
 #### select treatment	
 	treatment=reactive({
 		switch(input$treat,
-			'Control' = 'control', 
-			'1mM-Zn' = 'treatment'
+			'Both' = 'all',
+			'Control' = 'Control_Expression_Group', 
+			'1mM-Zn' = 'Treatment_Expression_Group'
 			)
 		})
 
-#### Filter data with the panel
-####	zntreat=filterTreat(data(), treatment())
-	
-
+#### Select Expression class
 	expressionclass=reactive({
 		switch(input$exp,
 			'All' = 'all', 
-			'High' = 'high', 
-			'Medium' = 'medium', 
-			'Low' = 'low', 
-			'Not-Expressed' = 'no_exp'
+			'High' = 'High Expression', 
+			'Medium' = 'Medium Expression', 
+			'Low' = 'Low Expression', 
+			'Not-Expressed' = 'Not Expressed'
 			)
 		})
 	
+### Filter data for output
+### First it filter for treatment class. the filterTreat function wil handle the
+### Option of all the treament selected
+### The the filterExp will handle the filtering by expression class
+### the filterExp need the treatment() parameter because the function will handle the selection on 1 column or two
 	data_final=reactive({
 		zntreat=filterTreat(data(), treatment())
 		if (expressionclass() =='all') return(zntreat)
-		filterExp(zntreat, expressionclass())
+		filterExp(zntreat, expressionclass(), treatment())
 		})	
 
 

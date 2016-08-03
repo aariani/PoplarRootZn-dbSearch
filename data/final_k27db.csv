@@ -1,0 +1,813 @@
+GeneID	Control_Expression_Group	Treatment_Expression_Group	Gene_description
+Potri.007G019800	Medium Expression	NA	unknown
+Potri.013G118700	NA	Not Expressed	UDP-glucosyl transferase 78D2
+Potri.014G025600	Medium Expression	NA	HXXXD-type acyl-transferase family protein
+Potri.004G153600	NA	Not Expressed	Protein kinase superfamily protein
+Potri.017G068900	Not Expressed	NA	unknown
+Potri.001G373200	Medium Expression	Medium Expression	GroES-like zinc-binding alcohol dehydrogenase family protein
+Potri.003G067300	Low Expression	NA	DNA-directed RNA polymerase family protein
+Potri.010G022500	Medium Expression	Medium Expression	Zinc finger C-x8-C-x5-C-x3-H type family protein
+Potri.019G020700	NA	High Expression	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Potri.015G051400	Not Expressed	Not Expressed	unknown
+Potri.013G141600	Low Expression	NA	unknown
+Potri.013G135300	High Expression	NA	pre-mRNA splicing factor-related
+Potri.013G139400	Not Expressed	Low Expression	Cytochrome C assembly protein
+Potri.016G137500	NA	Not Expressed	VACUOLAR SORTING RECEPTOR 2
+Potri.016G096500	High Expression	Medium Expression	ubiquitin-protein ligase 7
+Potri.010G206900	Medium Expression	NA	dephospho-CoA kinase family
+Potri.018G053000	Medium Expression	Medium Expression	Protein of unknown function (DUF761)
+Potri.013G138800	Not Expressed	Low Expression	NADH-Ubiquinone/plastoquinone (complex I) protein
+Potri.001G271500	High Expression	NA	Ribosomal protein L6 family protein
+Potri.003G065100	Not Expressed	NA	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.010G042900	Medium Expression	NA	Kelch repeat-containing F-box family protein
+Potri.014G150800	Medium Expression	NA	lipase class 3 family protein
+Potri.003G024100	Low Expression	Low Expression	Plant protein of unknown function (DUF247)
+Potri.001G392600	High Expression	NA	tetratricopetide-repeat thioredoxin-like 1
+Potri.014G070400	Low Expression	NA	LOB domain-containing protein 18
+Potri.004G140800	NA	High Expression	nitrite reductase 1
+Potri.011G003300	Medium Expression	NA	Protein of unknown function, DUF584
+Potri.008G001800	Not Expressed	Not Expressed	zinc ion binding;nucleic acid binding
+Potri.017G070500	Medium Expression	Medium Expression	5\'-3\' exonuclease family protein
+Potri.008G192500	High Expression	NA	pyruvate dehydrogenase complex E1 alpha subunit
+Potri.001G376400	NA	High Expression	global transcription factor group E4
+Potri.015G003000	Medium Expression	Medium Expression	nuclear RNA polymerase C2
+Potri.018G128400	High Expression	NA	Transducin family protein / WD-40 repeat family protein
+Potri.002G004600	NA	High Expression	RNA-binding (RRM/RBD/RNP motifs) family protein
+Potri.012G033800	Low Expression	NA	unknown
+Potri.001G276600	Low Expression	NA	cysteine-rich RLK (RECEPTOR-like protein kinase) 3
+Potri.001G412500	Medium Expression	High Expression	unknown
+Potri.001G013600	Low Expression	Low Expression	DNA-binding bromodomain-containing protein
+Potri.019G037400	Medium Expression	NA	Glycosyl hydrolase family protein
+Potri.017G038500	High Expression	Medium Expression	TraB family protein
+Potri.002G162000	High Expression	Medium Expression	Quinoprotein amine dehydrogenase, beta chain-like; RIC1-like guanyl-nucleotide exchange factor
+Potri.013G140000	Not Expressed	Low Expression	unknown
+Potri.004G044900	NA	Not Expressed	ralf-like 4
+Potri.007G041500	Not Expressed	NA	unknown
+Potri.018G087100	High Expression	NA	ABC transporter family protein
+Potri.019G125300	NA	Not Expressed	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+Potri.012G049000	Medium Expression	Medium Expression	unknown
+Potri.017G116000	Medium Expression	NA	unknown
+Potri.008G223200	Not Expressed	NA	unknown
+Potri.005G159800	Not Expressed	NA	unknown
+Potri.001G372400	Low Expression	NA	cinnamyl alcohol dehydrogenase 9
+Potri.009G047200	Not Expressed	NA	unknown
+Potri.019G021900	NA	Not Expressed	Polynucleotidyl transferase, ribonuclease H-like superfamily protein
+Potri.013G139900	Low Expression	Low Expression	unknown
+Potri.T061700	Not Expressed	NA	unknown
+Potri.019G043600	Medium Expression	NA	HXXXD-type acyl-transferase family protein
+Potri.001G301900	High Expression	High Expression	Calcium-dependent lipid-binding (CaLB domain) family protein
+Potri.012G052700	High Expression	NA	Transducin/WD40 repeat-like superfamily protein
+Potri.001G415800	Low Expression	NA	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
+Potri.007G091600	Low Expression	Low Expression	VQ motif-containing protein
+Potri.010G249600	Low Expression	NA	D-3-phosphoglycerate dehydrogenase
+Potri.018G074200	Low Expression	NA	Homeodomain-like superfamily protein
+Potri.014G047400	Medium Expression	Medium Expression	Protein of unknown function (DUF630 and DUF632)
+Potri.019G093000	High Expression	NA	O-methyltransferase family protein
+Potri.001G027000	NA	High Expression	response regulator 9
+Potri.014G157000	High Expression	NA	Protein phosphatase 2A regulatory B subunit family protein
+Potri.016G126900	Not Expressed	Not Expressed	receptor like protein 6
+Potri.T005700	Not Expressed	Not Expressed	ATP synthase subunit beta
+Potri.013G139700	Not Expressed	Not Expressed	Ycf1 protein
+Potri.018G085900	Medium Expression	NA	Protein of unknown function (DUF810)
+Potri.010G024600	Medium Expression	NA	unknown
+Potri.014G041800	Low Expression	NA	UDP-Glycosyltransferase superfamily protein
+Potri.004G149400	NA	Low Expression	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.001G374200	NA	Low Expression	Basic-leucine zipper (bZIP) transcription factor family protein
+Potri.019G083900	NA	Low Expression	Gibberellin-regulated family protein
+Potri.003G049700	NA	Low Expression	Protein kinase family protein
+Potri.T012900	Low Expression	NA	NB-ARC domain-containing disease resistance protein
+Potri.001G470300	High Expression	NA	Pyridoxamine 5\'-phosphate oxidase family protein
+Potri.017G082300	NA	High Expression	Protein of unknown function (DUF1666)
+Potri.005G059500	Not Expressed	Not Expressed	beta glucosidase 32
+Potri.006G041600	Medium Expression	NA	unknown
+Potri.019G059500	High Expression	High Expression	unknown
+Potri.005G185700	NA	High Expression	RNI-like superfamily protein
+Potri.014G093300	Not Expressed	Not Expressed	Phosphatidylinositol-4-phosphate 5-kinase, core
+Potri.014G014700	NA	Medium Expression	endoplasmic reticulum-type calcium-transporting ATPase 3
+Potri.016G003700	NA	Low Expression	Phototropic-responsive NPH3 family protein
+Potri.014G070200	Medium Expression	NA	unknown
+Potri.001G402600	NA	High Expression	RmlC-like cupins superfamily protein
+Potri.017G062900	NA	Not Expressed	Plant protein of unknown function (DUF247)
+Potri.002G003100	NA	High Expression	Phosphofructokinase family protein
+Potri.008G209800	Low Expression	Low Expression	Calcium-dependent lipid-binding (CaLB domain) family protein
+Potri.019G012100	Medium Expression	NA	MuDR family transposase
+Potri.010G010300	Not Expressed	Not Expressed	unknown
+Potri.013G119700	NA	Medium Expression	unknown
+Potri.016G129000	High Expression	NA	SCAR homolog 2
+Potri.010G004700	NA	Medium Expression	DEA(D/H)-box RNA helicase family protein
+Potri.012G004000	Medium Expression	NA	Vacuolar iron transporter (VIT) family protein
+Potri.003G019600	Medium Expression	NA	Protein of unknown function (DUF3411)
+Potri.005G156700	NA	Not Expressed	Predicted AT-hook DNA-binding family protein
+Potri.001G401700	Medium Expression	NA	expansin 12
+Potri.001G377500	Medium Expression	NA	CTC-interacting domain 9
+Potri.017G087600	NA	Not Expressed	Pentatricopeptide repeat (PPR) superfamily protein
+Potri.015G090600	Low Expression	Low Expression	cell division cycle 45
+Potri.019G060900	Medium Expression	NA	zinc ion binding;DNA binding;helicases;ATP binding;nucleic acid binding
+Potri.005G170400	NA	Low Expression	unknown
+Potri.006G081200	NA	Medium Expression	leucine-rich repeat/extensin 2
+Potri.014G051900	NA	Medium Expression	Cox19 family protein (CHCH motif)
+Potri.002G195800	Medium Expression	NA	TRICHOME BIREFRINGENCE-LIKE 6
+Potri.013G136800	Low Expression	NA	photosynthetic electron transfer D
+Potri.004G004500	Not Expressed	NA	unknown
+Potri.008G040000	Low Expression	Not Expressed	alpha/beta-Hydrolases superfamily protein
+Potri.008G039900	Low Expression	Low Expression	Expressed protein
+Potri.006G151100	Low Expression	NA	unknown
+Potri.010G030200	NA	Medium Expression	CBS domain-containing protein with a domain of unknown function (DUF21)
+Potri.008G045400	Medium Expression	NA	binding;RNA binding
+Potri.004G058700	Medium Expression	Medium Expression	transcriptional regulator family protein
+Potri.004G151800	NA	Low Expression	cytochrome P450, family 702, subfamily A, polypeptide 3
+Potri.017G098700	Medium Expression	NA	COBRA-like extracellular glycosyl-phosphatidyl inositol-anchored protein family
+Potri.019G031400	Medium Expression	NA	NAC domain containing protein 47
+Potri.013G022100	NA	Medium Expression	lipoxygenase 1
+Potri.T003100	Medium Expression	Medium Expression	phosphatidylinositol-4-phosphate 5-kinase 1
+Potri.015G052500	NA	Not Expressed	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein
+Potri.T041200	Medium Expression	Low Expression	unknown
+Potri.008G193400	Low Expression	NA	zinc finger protein 5
+Potri.002G211400	Not Expressed	NA	unknown
+Potri.T017400	NA	Not Expressed	unknown
+Potri.018G075900	High Expression	NA	Leucine-rich repeat (LRR) family protein
+Potri.018G085000	NA	Medium Expression	RING/U-box superfamily protein
+Potri.017G102700	NA	High Expression	cAMP-regulated phosphoprotein 19-related protein
+Potri.005G150400	NA	Low Expression	oligopeptide transporter 4
+Potri.015G134100	Medium Expression	NA	Protein kinase superfamily protein
+Potri.014G191100	High Expression	NA	unknown
+Potri.018G058300	High Expression	NA	unknown
+Potri.017G092600	NA	Medium Expression	PHD finger family protein
+Potri.013G142500	Not Expressed	NA	unknown
+Potri.001G403700	Medium Expression	NA	COP1-interacting protein 7
+Potri.015G040900	Medium Expression	Medium Expression	unknown
+Potri.008G223400	Not Expressed	NA	unknown
+Potri.012G007100	High Expression	NA	unknown
+Potri.005G049500	NA	Medium Expression	unknown
+Potri.006G152000	Medium Expression	NA	Protein kinase superfamily protein
+Potri.009G021400	Not Expressed	Not Expressed	HSP20-like chaperones superfamily protein
+Potri.007G092800	Medium Expression	NA	Nucleotide-sugar transporter family protein
+Potri.T005900	Not Expressed	Not Expressed	unknown
+Potri.017G102500	NA	Low Expression	alpha/beta-Hydrolases superfamily protein
+Potri.014G195400	Not Expressed	Not Expressed	unknown
+Potri.011G055500	Medium Expression	NA	TCP family transcription factor
+Potri.013G009600	High Expression	High Expression	unknown
+Potri.018G063700	High Expression	NA	Phosphoinositide phosphatase family protein
+Potri.002G074800	NA	Medium Expression	ACT domain repeat 3
+Potri.006G072000	NA	Medium Expression	Eukaryotic protein of unknown function (DUF872)
+Potri.001G075600	High Expression	High Expression	VACUOLAR SORTING RECEPTOR 6
+Potri.019G133900	NA	Not Expressed	vacuolar ATP synthase G3
+Potri.011G043400	Medium Expression	NA	unknown
+Potri.019G124100	Medium Expression	NA	prenylated RAB acceptor 1.B4
+Potri.001G190200	NA	High Expression	protein kinase family protein / peptidoglycan-binding LysM domain-containing protein
+Potri.004G127600	Not Expressed	NA	Photosystem I, PsaA/PsaB protein
+Potri.012G047200	Medium Expression	NA	Auxin efflux carrier family protein
+Potri.012G132300	Not Expressed	NA	Protein kinase superfamily protein
+Potri.018G019600	NA	Low Expression	Actin-binding FH2 (Formin Homology) protein
+Potri.011G046900	High Expression	High Expression	disease resistance protein (TIR class), putative
+Potri.012G092000	Medium Expression	Medium Expression	tetratricopeptide repeat (TPR)-containing protein
+Potri.011G074000	Not Expressed	Not Expressed	unknown
+Potri.017G069200	NA	Medium Expression	unknown
+Potri.008G208000	Medium Expression	Medium Expression	UDP-xylosyltransferase 2
+Potri.006G063000	High Expression	High Expression	Inorganic H pyrophosphatase family protein
+Potri.017G076400	NA	High Expression	Phosphoglycerate mutase-like family protein
+Potri.005G167900	High Expression	NA	Pollen Ole e 1 allergen and extensin family protein
+Potri.014G034100	Medium Expression	Medium Expression	alpha/beta-Hydrolases superfamily protein
+Potri.003G031100	Medium Expression	NA	MUTM homolog-1
+Potri.003G033000	NA	Not Expressed	Integrase-type DNA-binding superfamily protein
+Potri.015G094100	High Expression	NA	AAA-type ATPase family protein
+Potri.001G416600	NA	High Expression	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
+Potri.006G227600	NA	Medium Expression	unknown
+Potri.019G042700	NA	Medium Expression	unknown
+Potri.002G177500	Medium Expression	NA	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+Potri.015G026500	Low Expression	NA	alpha/beta-Hydrolases superfamily protein
+Potri.001G411800	NA	High Expression	Calcium-binding EF-hand family protein
+Potri.014G136400	NA	High Expression	receptor-like kinase in in flowers 3
+Potri.005G025000	Not Expressed	Not Expressed	SGNH hydrolase-type esterase superfamily protein
+Potri.T098200	Medium Expression	NA	lectin protein kinase family protein
+Potri.009G005000	Not Expressed	NA	photosynthetic electron transfer B
+Potri.003G054800	Medium Expression	NA	unknown
+Potri.008G226500	NA	High Expression	translationally controlled tumor protein
+Potri.017G090800	NA	High Expression	galacturonosyltransferase 14
+Potri.018G066400	Medium Expression	NA	cytidine deaminase 1
+Potri.001G342300	Medium Expression	Medium Expression	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+Potri.015G038700	High Expression	NA	Auxin efflux carrier family protein
+Potri.018G129800	Low Expression	NA	plant-specific transcription factor YABBY family protein
+Potri.018G076600	Low Expression	NA	ATP binding
+Potri.003G113900	NA	High Expression	receptor serine/threonine kinase, putative
+Potri.019G087000	NA	High Expression	FORMS APLOID AND BINUCLEATE CELLS 1A
+Potri.013G004100	High Expression	NA	S-adenosylmethionine synthetase family protein
+Potri.014G088400	NA	High Expression	UDP-Glycosyltransferase superfamily protein
+Potri.T012300	Medium Expression	NA	unknown
+Potri.016G057300	NA	Medium Expression	UDP-Glycosyltransferase superfamily protein
+Potri.012G044900	High Expression	NA	jasmonate-zim-domain protein 3
+Potri.013G074300	Low Expression	Low Expression	HXXXD-type acyl-transferase family protein
+Potri.005G039700	NA	Not Expressed	unknown
+Potri.019G126700	Not Expressed	Not Expressed	Major facilitator superfamily protein
+Potri.011G139900	Medium Expression	NA	endoplasmic reticulum oxidoreductins 1
+Potri.001G140500	High Expression	NA	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.014G043400	Not Expressed	Not Expressed	Phosphatidylinositol N-acetylglucosaminyltransferase, GPI19/PIG-P subunit
+Potri.018G074500	NA	Medium Expression	pleiotropic drug resistance 4
+Potri.011G072300	NA	Medium Expression	receptor-like kinase in flowers 1
+Potri.014G074200	High Expression	NA	AGAMOUS-like 20
+Potri.006G022100	High Expression	NA	heat shock protein 70 (Hsp 70) family protein
+Potri.017G044600	Medium Expression	Medium Expression	Chaperone DnaJ-domain superfamily protein
+Potri.001G394600	High Expression	Medium Expression	ubiquitin-specific protease 25
+Potri.010G065300	Not Expressed	NA	Calcium-dependent lipid-binding (CaLB domain) family protein
+Potri.012G013900	NA	Medium Expression	SET domain group 29
+Potri.011G022600	Medium Expression	NA	Ubiquitin-specific protease family C19-related protein
+Potri.015G070200	Low Expression	Not Expressed	Pentatricopeptide repeat (PPR) superfamily protein
+Potri.015G112700	NA	High Expression	Root hair defective 3 GTP-binding protein (RHD3)
+Potri.019G078700	Medium Expression	Medium Expression	MUTL-homologue 1
+Potri.012G020200	Not Expressed	NA	GRAS family transcription factor
+Potri.006G064200	High Expression	NA	calmodulin-binding receptor-like cytoplasmic kinase 3
+Potri.018G114500	High Expression	High Expression	RING/U-box superfamily protein
+Potri.001G406000	NA	Medium Expression	NB-ARC domain-containing disease resistance protein
+Potri.017G145800	Not Expressed	Not Expressed	root hair specific 13
+Potri.013G141200	Not Expressed	Not Expressed	unknown
+Potri.019G048700	High Expression	High Expression	TLC ATP/ADP transporter
+Potri.005G219100	High Expression	NA	PRA1 (Prenylated rab acceptor) family protein
+Potri.001G422500	Medium Expression	NA	cytochrome P450, family 716, subfamily A, polypeptide 2
+Potri.001G127300	High Expression	NA	RHO guanyl-nucleotide exchange factor 14
+Potri.010G025400	NA	Not Expressed	UDP-xylosyltransferase 2
+Potri.012G092800	Medium Expression	NA	radical SAM domain-containing protein / GCN5-related N-acetyltransferase (GNAT) family protein
+Potri.007G077700	Low Expression	Low Expression	unknown
+Potri.011G155700	NA	Medium Expression	Small nuclear ribonucleoprotein family protein
+Potri.008G206300	Medium Expression	NA	MuDR family transposase
+Potri.019G020900	NA	High Expression	Homeodomain-like superfamily protein
+Potri.014G065400	Low Expression	NA	unknown
+Potri.008G220300	NA	Not Expressed	unknown
+Potri.017G041100	High Expression	High Expression	SET domain protein 2
+Potri.013G138900	Not Expressed	Low Expression	ribosomal protein S7
+Potri.004G133400	Not Expressed	NA	inositol transporter 2
+Potri.006G116000	High Expression	NA	demeter-like 1
+Potri.011G120100	Medium Expression	NA	Nucleotide-diphospho-sugar transferases superfamily protein
+Potri.007G035200	High Expression	NA	extra-large G-protein 1
+Potri.018G075500	High Expression	NA	Alcohol dehydrogenase transcription factor Myb/SANT-like family protein
+Potri.004G228600	High Expression	NA	Zinc finger C-x8-C-x5-C-x3-H type family protein
+Potri.005G078800	NA	Low Expression	DNAJ-like 20
+Potri.019G047200	NA	Medium Expression	Inositol 1,3,4-trisphosphate 5/6-kinase family protein
+Potri.018G146000	Low Expression	NA	RNA helicase, ATP-dependent, SK12/DOB1 protein
+Potri.018G148100	Low Expression	NA	transducin family protein / WD-40 repeat family protein
+Potri.014G037900	NA	Medium Expression	cytochrome P450, family 82, subfamily C, polypeptide 4
+Potri.013G139200	Not Expressed	Low Expression	unknown
+Potri.011G045300	NA	High Expression	Protein of unknown function (DUF707)
+Potri.013G035100	NA	Medium Expression	ARM repeat superfamily protein
+Potri.003G022600	Low Expression	Not Expressed	telomerase reverse transcriptase
+Potri.014G067300	High Expression	NA	methionine aminopeptidase 1A
+Potri.003G140200	Low Expression	NA	unknown
+Potri.007G115500	High Expression	NA	cytochrome P450, family 81, subfamily D, polypeptide 8
+Potri.019G063500	NA	Low Expression	MATE efflux family protein
+Potri.018G020200	NA	Medium Expression	TBP-associated factor 5
+Potri.T041900	Low Expression	Low Expression	Leucine-rich repeat receptor-like protein kinase family protein
+Potri.014G164700	NA	High Expression	histidine kinase 2
+Potri.012G042500	Medium Expression	NA	extra-large GTP-binding protein 3
+Potri.013G141700	Not Expressed	NA	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.005G162400	High Expression	NA	general regulatory factor 2
+Potri.002G231700	NA	Medium Expression	basic helix-loop-helix (bHLH) DNA-binding superfamily protein
+Potri.011G024000	NA	High Expression	guanyl-nucleotide exchange factors;GTPase binding;GTP binding
+Potri.005G210600	NA	High Expression	splicing factor Prp18 family protein
+Potri.003G024000	NA	Medium Expression	P-type ATP-ase 1
+Potri.006G195200	NA	Medium Expression	unknown
+Potri.T106300	Medium Expression	NA	Rho GTPase activating protein with PAK-box/P21-Rho-binding domain
+Potri.019G068200	Medium Expression	NA	disease resistance protein (TIR-NBS-LRR class), putative
+Potri.011G145800	Low Expression	NA	FAR1-related sequence 5
+Potri.011G093500	Medium Expression	Low Expression	FASCICLIN-like arabinogalactan 1
+Potri.004G119700	Medium Expression	NA	UDP-Glycosyltransferase superfamily protein
+Potri.015G064600	NA	High Expression	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Potri.002G141300	High Expression	High Expression	histone mono-ubiquitination 1
+Potri.004G122000	Low Expression	Low Expression	RING/U-box superfamily protein
+Potri.009G131800	Low Expression	NA	Chaperone DnaJ-domain superfamily protein
+Potri.004G134500	High Expression	NA	Transmembrane CLPTM1 family protein
+Potri.018G029400	NA	High Expression	cellulose synthase 1
+Potri.018G057700	NA	Medium Expression	ataurora1
+Potri.013G141400	NA	Not Expressed	photosystem II reaction center protein G
+Potri.003G021700	Medium Expression	NA	homolog of separase
+Potri.005G046500	High Expression	NA	Transducin/WD40 repeat-like superfamily protein
+Potri.002G118300	High Expression	Medium Expression	ZCW7
+Potri.014G149600	NA	High Expression	ARM repeat superfamily protein
+Potri.003G085000	Low Expression	NA	Histone H3 K4-specific methyltransferase SET7/9 family protein
+Potri.008G185400	Medium Expression	NA	eukaryotic translation initiation factor 4B1
+Potri.012G090700	Medium Expression	NA	unknown
+Potri.001G110700	High Expression	NA	C-repeat-binding factor 4
+Potri.008G077300	Medium Expression	Medium Expression	UDP-galactose transporter 6
+Potri.015G056400	High Expression	NA	unknown
+Potri.008G192600	High Expression	NA	glucosyl transferase family 8
+Potri.004G072100	NA	Medium Expression	Tic22-like family protein
+Potri.002G237300	NA	Not Expressed	photosystem II reaction center protein L
+Potri.019G024800	Not Expressed	NA	GDSL-like Lipase/Acylhydrolase superfamily protein
+Potri.003G066200	Medium Expression	NA	ARM repeat superfamily protein
+Potri.018G072600	High Expression	High Expression	DNAJ heat shock N-terminal domain-containing protein
+Potri.009G050200	Medium Expression	NA	Heat shock protein DnaJ with tetratricopeptide repeat
+Potri.001G218700	High Expression	NA	Ribosomal protein S11 family protein
+Potri.005G086300	Not Expressed	NA	unknown
+Potri.003G197400	Low Expression	NA	Major facilitator superfamily protein
+Potri.019G118400	Medium Expression	NA	Major facilitator superfamily protein
+Potri.013G139800	Medium Expression	Medium Expression	unknown
+Potri.018G065200	Low Expression	NA	photosystem II subunit X
+Potri.014G036200	NA	Low Expression	Major facilitator superfamily protein
+Potri.014G165700	Not Expressed	Not Expressed	F-box family protein
+Potri.013G085500	NA	Medium Expression	Protein phosphatase 2C family protein
+Potri.008G062300	Medium Expression	NA	HSP20-like chaperones superfamily protein
+Potri.014G070600	High Expression	NA	SEC7-like guanine nucleotide exchange family protein
+Potri.018G006100	High Expression	NA	COP9 signalosome 5A
+Potri.002G135600	High Expression	High Expression	mitochondrial acyl carrier protein 1
+Potri.015G093600	Medium Expression	Low Expression	RNA-metabolising metallo-beta-lactamase family protein
+Potri.017G092100	NA	Low Expression	TPX2 (targeting protein for Xklp2) protein family
+Potri.011G001100	NA	Low Expression	pentatricopeptide repeat 336
+Potri.012G097900	Low Expression	NA	unknown
+Potri.005G083200	Medium Expression	NA	ABC2 homolog 13
+Potri.018G079300	High Expression	NA	RAB homolog 1
+Potri.008G031100	Not Expressed	NA	unknown
+Potri.011G066900	Medium Expression	NA	xylem bark cysteine peptidase 3
+Potri.006G203300	Medium Expression	NA	NC domain-containing protein-related
+Potri.013G139600	Not Expressed	NA	NAD(P)H dehydrogenase subunit H
+Potri.004G152400	High Expression	NA	Phosphatidylinositol 3- and 4-kinase family protein
+Potri.014G186500	Not Expressed	NA	zinc ion binding;nucleic acid binding
+Potri.001G179500	NA	Medium Expression	structural molecules
+Potri.008G220000	NA	Not Expressed	NADH dehydrogenase 5B
+Potri.012G132800	NA	Not Expressed	unknown
+Potri.014G086900	Low Expression	NA	receptor-like protein kinase 4
+Potri.011G009800	Low Expression	NA	ERD (early-responsive to dehydration stress) family protein
+Potri.011G102700	NA	Low Expression	Leucine-rich repeat protein kinase family protein
+Potri.001G168100	Medium Expression	Medium Expression	ARM repeat superfamily protein
+Potri.018G023900	NA	Medium Expression	TOPLESS-related 1
+Potri.013G098800	Low Expression	NA	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.003G033400	Low Expression	NA	Chaperone protein htpG family protein
+Potri.017G052100	Low Expression	Medium Expression	UDP-glucosyl transferase 85A2
+Potri.001G065700	Not Expressed	Not Expressed	unknown
+Potri.001G029500	Low Expression	NA	nudix hydrolase homolog 16
+Potri.014G140600	NA	Low Expression	Heavy metal transport/detoxification superfamily protein
+Potri.T010000	Not Expressed	NA	Leucine-rich repeat transmembrane protein kinase
+Potri.001G083400	Medium Expression	NA	alpha/beta-Hydrolases superfamily protein
+Potri.007G095900	Not Expressed	NA	ABC-2 type transporter family protein
+Potri.014G187700	Not Expressed	NA	zinc ion binding;nucleic acid binding
+Potri.012G047500	Low Expression	NA	structural constituent of ribosome
+Potri.016G116100	Medium Expression	Medium Expression	SGNH hydrolase-type esterase superfamily protein
+Potri.001G451100	NA	High Expression	O-methyltransferase 1
+Potri.009G007800	High Expression	NA	ABC transporter family protein
+Potri.006G169400	NA	High Expression	voltage dependent anion channel 4
+Potri.006G228700	Low Expression	NA	Alkaline phytoceramidase (aPHC)
+Potri.001G193400	NA	Medium Expression	unknown
+Potri.002G240200	Medium Expression	NA	formin homology 1
+Potri.012G048700	High Expression	NA	don-glucosyltransferase 1
+Potri.013G076200	High Expression	NA	Ribosomal protein S5 family protein
+Potri.010G048700	Medium Expression	NA	sphere organelles protein-related
+Potri.010G014200	Medium Expression	Medium Expression	ARM repeat superfamily protein
+Potri.016G096800	NA	Medium Expression	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Potri.013G139100	Not Expressed	Not Expressed	unknown
+Potri.009G043000	NA	Not Expressed	unknown
+Potri.013G074700	Not Expressed	Not Expressed	NAD(P)H dehydrogenase subunit H
+Potri.019G040100	Low Expression	NA	polyribonucleotide nucleotidyltransferase, putative
+Potri.004G113700	High Expression	NA	general transcription factor II H2
+Potri.004G230300	Medium Expression	NA	AAA-type ATPase family protein
+Potri.003G028000	High Expression	NA	unknown
+Potri.014G174700	High Expression	NA	formin homology 1
+Potri.011G025700	NA	High Expression	Oligosaccharyltransferase complex/magnesium transporter family protein
+Potri.002G211500	Not Expressed	Not Expressed	unknown
+Potri.010G180500	Medium Expression	Medium Expression	UDP-galactose transporter 6
+Potri.006G170700	NA	Medium Expression	Protein kinase superfamily protein with octicosapeptide/Phox/Bem1p domain
+Potri.005G085400	Medium Expression	NA	chloroplast-localized ISCA-like protein
+Potri.014G145600	Medium Expression	NA	unknown
+Potri.011G015900	NA	High Expression	Phosphofructokinase family protein
+Potri.011G107300	NA	High Expression	unknown
+Potri.006G216900	NA	High Expression	HOPM interactor 7
+Potri.001G352000	Medium Expression	NA	unknown
+Potri.002G208100	Medium Expression	Medium Expression	B-box type zinc finger protein with CCT domain
+Potri.004G129900	High Expression	NA	Phosphoglycerate mutase-like family protein
+Potri.017G058300	Medium Expression	NA	RNA recognition motif (RRM)-containing protein
+Potri.007G034000	Not Expressed	NA	unknown
+Potri.005G052700	Not Expressed	NA	ATPase E1-E2 type family protein / haloacid dehalogenase-like hydrolase family protein
+Potri.003G057300	Not Expressed	NA	pleiotropic drug resistance 12
+Potri.013G142400	Not Expressed	Not Expressed	DNA-directed RNA polymerase family protein
+Potri.005G225200	Low Expression	Low Expression	Rho termination factor
+Potri.012G038500	NA	Low Expression	homeodomain GLABROUS 11
+Potri.019G022700	NA	Medium Expression	Haem oxygenase-like, multi-helical
+Potri.016G084400	High Expression	NA	Ribosomal protein L4/L1 family
+Potri.017G039100	High Expression	NA	ATPases;nucleotide binding;ATP binding;nucleoside-triphosphatases;transcription factor binding
+Potri.004G192800	Not Expressed	Not Expressed	Structural maintenance of chromosomes (SMC) family protein
+Potri.006G152100	Medium Expression	NA	CwfJ-like family protein / zinc finger (CCCH-type) family protein
+Potri.008G186300	NA	Not Expressed	DORNROSCHEN-like
+Potri.001G224600	Not Expressed	NA	C2H2 type zinc finger transcription factor family
+Potri.013G029100	Low Expression	NA	Calcium-dependent phospholipid-binding Copine family protein
+Potri.005G069200	NA	Low Expression	Glycosyl hydrolase family 35 protein
+Potri.006G154300	Medium Expression	NA	Protein of unknown function (DUF1644)
+Potri.010G033600	Not Expressed	Not Expressed	unknown
+Potri.002G211600	Not Expressed	Not Expressed	unknown
+Potri.019G028600	Not Expressed	NA	ATPase, F0 complex, subunit A protein
+Potri.019G019500	NA	High Expression	Calcium-binding EF-hand family protein
+Potri.012G065900	Medium Expression	Medium Expression	unknown
+Potri.001G062700	NA	Not Expressed	RING finger protein
+Potri.019G103000	High Expression	NA	Protein of unknown function (DUF789)
+Potri.010G001700	High Expression	High Expression	Nucleotide-sugar transporter family protein
+Potri.002G116600	Medium Expression	Low Expression	ARM repeat superfamily protein
+Potri.017G088300	Medium Expression	NA	WRKY DNA-binding protein 3
+Potri.019G031800	NA	Not Expressed	Tryptophan/tyrosine permease
+Potri.002G208600	NA	Not Expressed	unknown
+Potri.019G119500	Medium Expression	NA	Outer arm dynein light chain 1 protein
+Potri.005G159300	NA	High Expression	auxin F-box protein 5
+Potri.001G214700	Medium Expression	NA	Plant-specific transcription factor YABBY family protein
+Potri.017G067900	NA	Not Expressed	Protein kinase superfamily protein
+Potri.001G258400	Low Expression	Not Expressed	CCCH-type zinc finger protein with ARM repeat domain
+Potri.017G140500	Low Expression	Low Expression	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Potri.004G193300	Medium Expression	Low Expression	Protein kinase superfamily protein
+Potri.011G004200	Low Expression	NA	Galactosyltransferase family protein
+Potri.015G051300	Not Expressed	NA	NADH dehydrogenase 5B
+Potri.016G142700	NA	Not Expressed	type one serine/threonine protein phosphatase 4
+Potri.013G094400	High Expression	Medium Expression	RNA-binding (RRM/RBD/RNP motifs) family protein
+Potri.010G012400	Not Expressed	NA	Pollen Ole e 1 allergen and extensin family protein
+Potri.014G186100	Not Expressed	NA	zinc ion binding;nucleic acid binding
+Potri.011G031900	High Expression	NA	eukaryotic translation initiation factor-related
+Potri.001G044700	NA	Medium Expression	MITOCHONDRIAL  FERREDOXIN 2
+Potri.004G085600	Medium Expression	High Expression	nudix hydrolase homolog 4
+Potri.014G168000	Not Expressed	Not Expressed	ATPase subunit 6-1
+Potri.005G082700	Not Expressed	NA	NAC-domain protein 101
+Potri.013G143300	Low Expression	NA	ribosomal protein L2
+Potri.012G022700	Medium Expression	Medium Expression	cleavage and polyadenylation specificity factor 160
+Potri.015G094000	High Expression	NA	unknown
+Potri.016G092600	NA	Medium Expression	HOPZ-ACTIVATED RESISTANCE 1
+Potri.003G120600	Medium Expression	Low Expression	Major Facilitator Superfamily with SPX (SYG1/Pho81/XPR1) domain-containing protein
+Potri.011G052700	High Expression	NA	ketol-acid reductoisomerase
+Potri.015G134500	Not Expressed	Not Expressed	Protein kinase superfamily protein
+Potri.T004700	Not Expressed	NA	Subtilase family protein
+Potri.006G153100	NA	Medium Expression	protein kinase family protein / WD-40 repeat family protein
+Potri.004G082800	NA	High Expression	NADH-ubiquinone dehydrogenase, mitochondrial, putative
+Potri.004G148300	NA	High Expression	extra-large G-protein 1
+Potri.017G120300	High Expression	High Expression	unknown
+Potri.017G080900	Low Expression	NA	unknown
+Potri.011G054300	Low Expression	NA	OBF binding protein 4
+Potri.018G066700	Medium Expression	NA	unknown
+Potri.007G057800	Medium Expression	NA	Chalcone-flavanone isomerase family protein
+Potri.005G142600	Medium Expression	NA	myb domain protein 73
+Potri.007G111300	Not Expressed	NA	Thymidine kinase
+Potri.013G142300	Not Expressed	Low Expression	DNA-directed RNA polymerase family protein
+Potri.013G090000	Medium Expression	NA	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.005G184400	Low Expression	NA	gibberellin 20 oxidase 2
+Potri.003G033200	Medium Expression	NA	Pyridoxal-5\'-phosphate-dependent enzyme family protein
+Potri.017G052700	Not Expressed	NA	Photosystem I, PsaA/PsaB protein
+Potri.013G142600	NA	Not Expressed	ribosomal protein S2
+Potri.004G158300	High Expression	High Expression	DNAJ heat shock N-terminal domain-containing protein
+Potri.019G048600	Low Expression	Low Expression	dual specificity protein phosphatase (DsPTP1) family protein
+Potri.008G180400	Low Expression	NA	HXXXD-type acyl-transferase family protein
+Potri.010G124400	NA	High Expression	unknown
+Potri.003G054300	Not Expressed	NA	unknown
+Potri.018G081300	High Expression	High Expression	proline extensin-like receptor kinase 1
+Potri.001G008800	High Expression	NA	histone mono-ubiquitination 2
+Potri.010G023800	NA	High Expression	cullin 1
+Potri.002G211300	Medium Expression	Medium Expression	NADH dehydrogenase 2A
+Potri.002G073100	Not Expressed	Not Expressed	mitogen-activated protein kinase kinase kinase 3
+Potri.017G072600	High Expression	High Expression	methyl-CPG-binding domain 9
+Potri.015G061000	High Expression	NA	actin binding
+Potri.002G213600	NA	Medium Expression	NPL4-like protein 1
+Potri.017G044700	NA	High Expression	beta carbonic anhydrase 5
+Potri.001G246400	NA	High Expression	Protein kinase protein with tetratricopeptide repeat domain
+Potri.019G058600	NA	Medium Expression	Leucine-rich repeat protein kinase family protein
+Potri.003G058800	Not Expressed	NA	Phototropic-responsive NPH3 family protein
+Potri.T061600	Not Expressed	Not Expressed	unknown
+Potri.005G158800	Not Expressed	NA	homeobox protein 22
+Potri.003G122600	NA	Not Expressed	hapless 2
+Potri.011G056600	Medium Expression	Low Expression	Zinc finger C-x8-C-x5-C-x3-H type family protein
+Potri.012G062700	High Expression	High Expression	protein phosphatase 2A  subunit A2
+Potri.006G276600	Low Expression	NA	ABC1 family protein
+Potri.008G183800	Medium Expression	NA	unknown
+Potri.008G211000	Low Expression	NA	glycine-rich protein
+Potri.001G178000	High Expression	Medium Expression	tetratricopeptide repeat (TPR)-containing protein
+Potri.008G045100	Low Expression	Low Expression	nitrate excretion transporter1
+Potri.012G021700	High Expression	NA	60S acidic ribosomal protein family
+Potri.012G059900	NA	Not Expressed	TCP family transcription factor
+Potri.018G082800	NA	Medium Expression	unknown
+Potri.001G406300	NA	High Expression	ARF-GAP domain 5
+Potri.016G084700	NA	High Expression	RNA binding (RRM/RBD/RNP motifs) family protein
+Potri.012G105400	High Expression	Medium Expression	unknown
+Potri.006G163300	Not Expressed	NA	unknown
+Potri.013G141300	Not Expressed	Not Expressed	unknown
+Potri.019G048400	Not Expressed	NA	Protein kinase superfamily protein
+Potri.018G121300	High Expression	NA	adenylate cyclases
+Potri.018G081400	Medium Expression	NA	SITE-1 protease
+Potri.003G067400	Low Expression	Low Expression	ribosomal protein L33
+Potri.004G141700	High Expression	NA	autophagy 2
+Potri.002G200200	High Expression	NA	galacturonosyltransferase-like 7
+Potri.012G032100	Low Expression	NA	manganese tracking factor for mitochondrial SOD2
+Potri.018G083300	High Expression	NA	CDK-activating kinase 1AT
+Potri.015G102100	Not Expressed	Not Expressed	NAC domain containing protein 83
+Potri.006G165700	High Expression	NA	Aldolase superfamily protein
+Potri.014G151800	Medium Expression	NA	Eukaryotic protein of unknown function (DUF914)
+Potri.015G025900	NA	Low Expression	FAD-binding Berberine family protein
+Potri.014G175300	Low Expression	Not Expressed	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.008G220400	High Expression	NA	multifunctional protein 2
+Potri.019G018100	NA	Medium Expression	phosphoenolpyruvate carboxylase kinase 2
+Potri.002G007100	Not Expressed	Not Expressed	glyceraldehyde-3-phosphate dehydrogenase B subunit
+Potri.014G020900	NA	Low Expression	RING/U-box superfamily protein
+Potri.011G074500	Not Expressed	Not Expressed	ribosomal protein S12C
+Potri.004G095000	Medium Expression	NA	transducin family protein / WD-40 repeat family protein
+Potri.008G223900	Not Expressed	NA	unknown
+Potri.004G223600	Medium Expression	Medium Expression	DNA-binding bromodomain-containing protein
+Potri.011G073900	Not Expressed	Low Expression	Ycf1 protein
+Potri.001G362300	High Expression	NA	multidrug resistance-associated protein 3
+Potri.T030500	Not Expressed	NA	Plant invertase/pectin methylesterase inhibitor superfamily
+Potri.015G079600	High Expression	NA	Ribosomal protein S4 (RPS4A) family protein
+Potri.002G079500	High Expression	High Expression	amino acid permease 3
+Potri.019G028500	NA	Low Expression	ATP synthase subunit C family protein
+Potri.009G016400	NA	Not Expressed	YCF9
+Potri.017G082900	Low Expression	Low Expression	homeobox protein 30
+Potri.T006200	Not Expressed	NA	ribulose-bisphosphate carboxylases
+Potri.004G116400	Medium Expression	NA	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein
+Potri.001G298200	Medium Expression	NA	unknown
+Potri.016G007300	Medium Expression	NA	FAR1-related sequence 10
+Potri.014G000600	NA	Medium Expression	Enhancer of polycomb-like transcription factor protein
+Potri.013G141000	Low Expression	Low Expression	unknown
+Potri.017G033400	Low Expression	NA	RNA-binding (RRM/RBD/RNP motifs) family protein
+Potri.006G130700	High Expression	NA	Phosphatidic acid phosphatase (PAP2) family protein
+Potri.018G068200	High Expression	NA	Transducin family protein / WD-40 repeat family protein
+Potri.T141100	Not Expressed	NA	unknown
+Potri.003G164600	NA	Low Expression	Sterile alpha motif (SAM) domain-containing protein
+Potri.011G006500	Not Expressed	Not Expressed	unknown
+Potri.008G190000	High Expression	NA	polygalacturonase 2
+Potri.006G171400	Medium Expression	NA	CBL-interacting protein kinase 21
+Potri.013G143900	Low Expression	NA	UDP-glucosyl transferase 78D2
+Potri.001G404700	Low Expression	NA	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein
+Potri.003G050100	NA	High Expression	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein
+Potri.004G141500	NA	Low Expression	homolog of RAD54
+Potri.018G057600	High Expression	NA	profilin 4
+Potri.004G126500	Not Expressed	NA	homeobox protein 30
+Potri.013G141500	Not Expressed	Low Expression	chloroplast ribosomal protein S4
+Potri.014G185600	Not Expressed	Not Expressed	unknown
+Potri.017G079400	High Expression	NA	Protein of unknown function (DUF1637)
+Potri.019G130800	Not Expressed	NA	unknown
+Potri.005G086400	Medium Expression	NA	WRKY DNA-binding protein 13
+Potri.002G200400	Low Expression	NA	syntaxin of plants 42
+Potri.T030200	Low Expression	NA	unknown
+Potri.014G173500	Medium Expression	Medium Expression	Chaperone DnaJ-domain superfamily protein
+Potri.011G119700	High Expression	High Expression	proton pump interactor 1
+Potri.005G070700	Medium Expression	NA	unknown
+Potri.018G083000	NA	Low Expression	Tesmin/TSO1-like CXC domain-containing protein
+Potri.017G092000	High Expression	NA	UDP-glucose 6-dehydrogenase family protein
+Potri.009G012000	Medium Expression	NA	Preprotein translocase Sec, Sec61-beta subunit protein
+Potri.018G058600	High Expression	NA	Zinc finger C-x8-C-x5-C-x3-H type family protein
+Potri.011G050800	NA	Medium Expression	fatty acid desaturase family protein
+Potri.012G077900	High Expression	NA	DegP protease 9
+Potri.005G148100	High Expression	NA	Splicing factor, CC1-like
+Potri.002G009400	Medium Expression	NA	Protein kinase superfamily protein
+Potri.011G043100	NA	Medium Expression	multidrug resistance-associated protein 12
+Potri.002G247700	Medium Expression	Medium Expression	Protein of unknown function (DUF760)
+Potri.010G024100	Medium Expression	NA	Mitochondrial substrate carrier family protein
+Potri.016G001100	High Expression	NA	myb-like HTH transcriptional regulator family protein
+Potri.003G210600	Low Expression	NA	AMP-dependent synthetase and ligase family protein
+Potri.008G224200	Not Expressed	NA	zinc ion binding;nucleic acid binding
+Potri.018G088200	Medium Expression	Low Expression	Protein kinase family protein with leucine-rich repeat domain
+Potri.017G069000	Not Expressed	NA	unknown
+Potri.018G089600	Not Expressed	NA	zinc ion binding;nucleic acid binding
+Potri.017G106100	High Expression	Medium Expression	ARM repeat superfamily protein
+Potri.008G001900	Not Expressed	NA	zinc ion binding;nucleic acid binding
+Potri.010G004200	Not Expressed	Not Expressed	HY5-homolog
+Potri.019G031000	High Expression	NA	apyrase 2
+Potri.013G074800	Not Expressed	NA	NADH dehydrogenase family protein
+Potri.019G001300	Not Expressed	Not Expressed	HXXXD-type acyl-transferase family protein
+Potri.004G147800	Medium Expression	NA	target of rapamycin
+Potri.013G137100	Low Expression	Low Expression	photosystem II reaction center protein B
+Potri.013G095400	Low Expression	NA	unknown
+Potri.003G067100	NA	High Expression	RING-box 1
+Potri.011G072200	Medium Expression	NA	Putative adipose-regulatory protein (Seipin)
+Potri.013G139500	Not Expressed	Not Expressed	unknown
+Potri.011G095400	Not Expressed	NA	unknown
+Potri.001G101400	High Expression	High Expression	Adaptin family protein
+Potri.003G022100	NA	Medium Expression	SNF2 domain-containing protein / helicase domain-containing protein
+Potri.014G188300	Not Expressed	Not Expressed	photosystem II reaction center protein C
+Potri.017G094900	Medium Expression	NA	Bromodomain transcription factor
+Potri.002G105500	Medium Expression	NA	Chaperone DnaJ-domain superfamily protein
+Potri.002G179100	Medium Expression	Medium Expression	RNA-binding (RRM/RBD/RNP motifs) family protein
+Potri.016G090800	NA	High Expression	NRAMP metal ion transporter family protein
+Potri.T048700	NA	Not Expressed	unknown
+Potri.014G066000	Medium Expression	Medium Expression	Nucleotidyltransferase family protein
+Potri.013G136600	Low Expression	Low Expression	ribosomal protein L22
+Potri.011G007400	Low Expression	NA	mitogen-activated protein kinase kinase kinase 15
+Potri.006G152500	NA	Not Expressed	cytokinin oxidase 3
+Potri.017G074000	Low Expression	NA	ABC transporter family protein
+Potri.014G061400	Not Expressed	NA	SPX domain gene 3
+Potri.016G110600	Low Expression	NA	3-oxo-5-alpha-steroid 4-dehydrogenase family protein
+Potri.017G128300	NA	Medium Expression	DegP protease 7
+Potri.004G007800	Not Expressed	NA	SLAC1 homologue 1
+Potri.007G095300	High Expression	NA	unknown
+Potri.004G196400	NA	High Expression	C2H2 zinc-finger protein SERRATE (SE)
+Potri.013G093400	NA	High Expression	Translation elongation factor EF1A/initiation factor IF2gamma family protein
+Potri.002G246800	Medium Expression	NA	Cyclin family protein
+Potri.002G214400	High Expression	High Expression	Mitogen activated protein kinase kinase kinase-related
+Potri.011G004500	Low Expression	NA	Ankyrin repeat family protein
+Potri.011G010200	Medium Expression	NA	unknown
+Potri.017G013100	Medium Expression	Low Expression	targeting protein for XKLP2
+Potri.017G086500	High Expression	NA	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+Potri.013G140100	Medium Expression	Medium Expression	unknown
+Potri.008G213700	Not Expressed	NA	unknown
+Potri.013G019200	Low Expression	NA	indeterminate(ID)-domain 2
+Potri.008G188000	Medium Expression	NA	Protein of Unknown Function (DUF239)
+Potri.017G075600	NA	Medium Expression	Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein
+Potri.011G051900	Low Expression	NA	unknown
+Potri.013G092500	NA	Low Expression	unknown
+Potri.004G126100	Medium Expression	NA	Saccharopine dehydrogenase
+Potri.013G091300	Not Expressed	NA	RING/U-box superfamily protein
+Potri.009G155200	NA	High Expression	Structural maintenance of chromosomes (SMC) family protein
+Potri.013G139000	Not Expressed	Not Expressed	ribosomal protein S12C
+Potri.011G087900	Medium Expression	NA	WRKY family transcription factor family protein
+Potri.017G101200	NA	Medium Expression	Alpha-L RNA-binding motif/Ribosomal protein S4 family protein
+Potri.019G002300	NA	Not Expressed	Fasciclin-like arabinogalactan family protein
+Potri.004G177700	High Expression	NA	transportin 1
+Potri.008G207000	Medium Expression	Medium Expression	ribosomal protein L3 plastid
+Potri.003G112900	NA	Low Expression	Pentapeptide repeat-containing protein
+Potri.019G028700	Not Expressed	NA	ribosomal protein S2
+Potri.011G064600	High Expression	High Expression	unknown
+Potri.006G170400	Medium Expression	NA	adenosylmethionine-8-amino-7-oxononanoate transaminases
+Potri.010G001200	High Expression	NA	unknown
+Potri.003G034800	NA	Not Expressed	multidrug resistance-associated protein 6
+Potri.003G072900	Low Expression	NA	related to ABI3/VP1 2
+Potri.010G026200	NA	Medium Expression	squamosa promoter binding protein-like 7
+Potri.008G088200	Not Expressed	NA	AGAMOUS-like 30
+Potri.003G177900	Low Expression	Low Expression	unknown
+Potri.004G145400	Low Expression	NA	endonucleases
+Potri.019G116200	Low Expression	NA	unknown
+Potri.012G018900	Not Expressed	Not Expressed	unknown
+Potri.007G040300	High Expression	NA	phospholipase A 2A
+Potri.014G169900	NA	High Expression	Kinase-related protein of unknown function (DUF1296)
+Potri.010G013700	Medium Expression	NA	Cysteine proteinases superfamily protein
+Potri.013G106000	High Expression	NA	SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein
+Potri.004G154000	Medium Expression	NA	Protein kinase superfamily protein
+Potri.T012800	High Expression	High Expression	calcium-dependent protein kinase 2
+Potri.017G078700	NA	Medium Expression	unknown
+Potri.018G023100	Medium Expression	NA	unknown
+Potri.012G086800	Medium Expression	NA	Ribosomal protein L19 family protein
+Potri.001G214800	Medium Expression	NA	ubiquitin-specific protease 8
+Potri.002G190700	Medium Expression	NA	unknown
+Potri.017G039200	High Expression	NA	aminopeptidase M1
+Potri.018G017200	NA	High Expression	RNA recognition motif (RRM)-containing protein
+Potri.001G374300	Low Expression	Not Expressed	glutamate receptor 2.7
+Potri.003G019900	Not Expressed	NA	HXXXD-type acyl-transferase family protein
+Potri.016G018700	High Expression	NA	unknown
+Potri.009G016300	Not Expressed	Not Expressed	Photosystem I, PsaA/PsaB protein
+Potri.008G219100	Medium Expression	NA	unknown
+Potri.011G025300	Not Expressed	NA	ROP-interactive CRIB motif-containing protein 1
+Potri.016G114600	NA	Low Expression	carboxyl-terminal domain (ctd) phosphatase-like 2
+Potri.014G184800	NA	Not Expressed	unknown
+Potri.019G103100	High Expression	NA	Protein phosphatase 2C family protein
+Potri.018G014800	Medium Expression	NA	Eukaryotic aspartyl protease family protein
+Potri.010G004100	NA	Medium Expression	transcription regulatory protein SNF5, putative (BSH)
+Potri.014G001100	Medium Expression	NA	Polyketide cyclase/dehydrase and lipid transport superfamily protein
+Potri.008G044100	Medium Expression	NA	unknown
+Potri.017G102900	Medium Expression	Medium Expression	disease resistance protein (TIR-NBS-LRR class), putative
+Potri.017G140700	Not Expressed	NA	photosystem II reaction center protein B
+Potri.001G086800	Medium Expression	Low Expression	methyltransferases;copper ion binding
+Potri.013G142700	Not Expressed	NA	ATP synthase subunit C family protein
+Potri.002G179500	High Expression	High Expression	pyruvate dehydrogenase E1 alpha
+Potri.011G074200	Low Expression	Medium Expression	ribosomal protein S19
+Potri.006G151800	NA	High Expression	Transducin family protein / WD-40 repeat family protein
+Potri.006G142300	NA	Low Expression	partner of SLD five 1
+Potri.005G164100	NA	Medium Expression	methyl-CPG-binding domain 8
+Potri.016G089800	NA	Not Expressed	unknown
+Potri.014G191300	Low Expression	NA	wound-responsive protein-related
+Potri.004G162500	High Expression	Medium Expression	global transcription factor group A2
+Potri.018G097000	NA	Not Expressed	Fasciclin-like arabinogalactan family protein
+Potri.001G411700	NA	Low Expression	S-locus lectin protein kinase family protein
+Potri.014G162100	Not Expressed	NA	Mo25 family protein
+Potri.004G037700	High Expression	NA	SNF2 domain-containing protein / helicase domain-containing protein / zinc finger protein-related
+Potri.008G089700	Not Expressed	NA	myb domain protein 106
+Potri.T006600	Not Expressed	NA	unknown
+Potri.011G047100	Low Expression	NA	unknown
+Potri.003G033600	NA	Medium Expression	DNA binding;DNA-directed RNA polymerases
+Potri.011G093700	NA	Low Expression	Concanavalin A-like lectin protein kinase family protein
+Potri.010G004400	High Expression	NA	Pectinacetylesterase family protein
+Potri.015G058900	NA	Medium Expression	unknown
+Potri.018G086300	NA	Medium Expression	CDC27  family protein
+Potri.016G092700	NA	High Expression	Leucine-rich repeat transmembrane protein kinase
+Potri.011G075000	Low Expression	Low Expression	Chloroplast Ycf2;ATPase, AAA type, core
+Potri.005G165000	Medium Expression	NA	Trm112p-like protein
+Potri.004G080200	High Expression	High Expression	expansin A13
+Potri.014G178300	Medium Expression	NA	UDP-Glycosyltransferase superfamily protein
+Potri.002G211700	Not Expressed	Not Expressed	unknown
+Potri.T005800	Low Expression	Low Expression	ribulose-bisphosphate carboxylases
+Potri.008G195800	NA	Low Expression	Protein kinase family protein with ARM repeat domain
+Potri.010G134400	Medium Expression	Medium Expression	Phosphoribulokinase / Uridine kinase family
+Potri.001G407000	High Expression	NA	myosin 2
+Potri.008G142900	NA	Low Expression	Pentatricopeptide repeat (PPR-like) superfamily protein
+Potri.019G102000	Not Expressed	NA	Clathrin light chain protein
+Potri.013G142200	Low Expression	Low Expression	RNA polymerase subunit beta
+Potri.010G014500	NA	Medium Expression	tRNA synthetase class I (I, L, M and V) family protein
+Potri.009G038600	Medium Expression	NA	unknown
+Potri.017G072800	NA	Medium Expression	cyclophilin 38
+Potri.014G071100	NA	High Expression	dihydrodipicolinate synthase
+Potri.008G223500	Not Expressed	NA	cytochrome P450, family 71, subfamily B, polypeptide 34
+Potri.019G055300	High Expression	NA	mitochondrial acyl carrier protein 2
+Potri.005G071500	NA	Medium Expression	helicase domain-containing protein / IBR domain-containing protein / zinc finger protein-related
+Potri.012G021300	NA	Low Expression	unknown
+Potri.008G223600	NA	Not Expressed	zinc ion binding;nucleic acid binding
+Potri.003G070400	High Expression	NA	unknown
+Potri.019G027800	Not Expressed	NA	DNA-directed RNA polymerase family protein
+Potri.013G111900	Low Expression	NA	ATP-binding casette family G25
+Potri.011G091900	NA	High Expression	auxin response factor 6
+Potri.011G083100	Medium Expression	NA	TEOSINTE BRANCHED 1, cycloidea and PCF transcription factor 2
+Potri.018G033700	Low Expression	NA	TIFY domain protein 8
+Potri.014G029200	Medium Expression	NA	Thioredoxin superfamily protein
+Potri.006G010500	Medium Expression	NA	Immunoglobulin E-set superfamily protein
+Potri.008G178100	Medium Expression	NA	Protein of unknown function (DUF3537)
+Potri.001G048300	Not Expressed	NA	H(+)-ATPase 9
+Potri.001G406500	High Expression	NA	GDSL-like Lipase/Acylhydrolase superfamily protein
+Potri.017G057100	NA	Medium Expression	Ypt/Rab-GAP domain of gyp1p superfamily protein
+Potri.012G047100	High Expression	NA	Calcium-dependent lipid-binding (CaLB domain) family protein
+Potri.014G048500	Medium Expression	NA	glycine-tRNA ligases
+Potri.013G142100	Not Expressed	NA	photosystem II reaction center protein M
+Potri.019G043800	Medium Expression	NA	AMP-dependent synthetase and ligase family protein
+Potri.006G190700	Not Expressed	NA	STRUBBELIG-receptor family 2
+Potri.011G089800	NA	Medium Expression	cleavage and polyadenylation specificity factor 30
+Potri.004G089800	Low Expression	NA	GRAS family transcription factor family protein
+Potri.001G407800	NA	Low Expression	cyclic nucleotide-gated cation channel 4
+Potri.011G074100	Low Expression	Low Expression	unknown
+Potri.016G099300	Low Expression	Low Expression	unknown
+Potri.019G089700	NA	Not Expressed	unknown
+Potri.001G406200	Medium Expression	NA	unknown
+Potri.012G007000	NA	High Expression	unknown
+Potri.004G146400	Not Expressed	NA	Leucine-rich repeat (LRR) family protein
+Potri.009G017400	NA	Medium Expression	BEL1-like homeodomain 1
+Potri.001G400300	NA	Medium Expression	Ubiquitin-conjugating enzyme family protein
+Potri.002G163400	Medium Expression	NA	Heavy metal transport/detoxification superfamily protein
+Potri.016G097300	High Expression	NA	Acyl-CoA N-acyltransferase with RING/FYVE/PHD-type zinc finger domain
+Potri.013G102100	NA	High Expression	Thioredoxin superfamily protein
+Potri.009G004900	Not Expressed	Not Expressed	unknown
+Potri.017G072100	High Expression	NA	zinc finger (CCCH-type) family protein / RNA recognition motif (RRM)-containing protein
+Potri.018G057500	Medium Expression	NA	haloacid dehalogenase-like hydrolase family protein
+Potri.010G025000	NA	High Expression	heat shock factor binding protein
+Potri.013G074900	Not Expressed	NA	NADH dehydrogenase family protein
+Potri.001G281000	Not Expressed	NA	Protein of unknown function (DUF640)
+Potri.T006000	Not Expressed	Not Expressed	ribulose-bisphosphate carboxylases
+Potri.017G013000	NA	Medium Expression	RING 1A
+Potri.013G048400	Not Expressed	NA	Calcium-dependent lipid-binding (CaLB domain) family protein
+Potri.003G164200	NA	Low Expression	kinase interacting (KIP1-like) family protein
+Potri.001G358300	High Expression	NA	Early-responsive to dehydration stress protein (ERD4)
+Potri.010G022400	NA	Medium Expression	GTP1/OBG family protein
+Potri.019G091500	NA	Medium Expression	plasmodesmata callose-binding protein 5
+Potri.001G004800	NA	High Expression	ARM repeat superfamily protein
+Potri.006G069100	Medium Expression	Medium Expression	unknown
+Potri.001G227600	NA	Not Expressed	beta glucosidase 13
+Potri.001G370500	Medium Expression	NA	unknown
+Potri.002G152500	High Expression	High Expression	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Potri.009G051800	High Expression	NA	Protein of unknown function (DUF3411)
+Potri.017G078900	NA	High Expression	sec7 domain-containing protein
+Potri.018G057200	High Expression	NA	nuclear poly(a) polymerase
+Potri.004G068400	High Expression	NA	unknown
+Potri.004G128000	Not Expressed	Not Expressed	unknown
+Potri.014G167900	Not Expressed	NA	unknown
+Potri.002G204200	Not Expressed	NA	alpha/beta-Hydrolases superfamily protein
+Potri.005G093000	Medium Expression	NA	Zinc finger, C3HC4 type (RING finger) family protein
+Potri.005G203900	Medium Expression	NA	Golgi transport complex protein-related
+Potri.T027100	Not Expressed	Not Expressed	iron-sulfur cluster binding;electron carriers;4 iron, 4 sulfur cluster binding
+Potri.017G083200	High Expression	NA	structural maintenance of chromosome 3
+Potri.009G016500	Not Expressed	Not Expressed	photosystem II reaction center protein C
+Potri.011G036200	NA	Low Expression	unknown
+Potri.012G013700	NA	Not Expressed	AP2/B3-like transcriptional factor family protein
+Potri.T030600	Medium Expression	NA	acyl-CoA dehydrogenase-related
+Potri.001G088400	Low Expression	Not Expressed	RING/U-box superfamily protein
+Potri.001G324700	Medium Expression	Medium Expression	unknown
+Potri.018G090100	High Expression	High Expression	Aldolase superfamily protein
+Potri.010G167300	Low Expression	Low Expression	AGAMOUS-like 30
+Potri.005G143200	Medium Expression	High Expression	Protein kinase superfamily protein
+Potri.013G141100	Low Expression	Low Expression	acetyl-CoA carboxylase carboxyl transferase subunit beta
+Potri.017G070100	NA	Medium Expression	Protein phosphatase 2A regulatory B subunit family protein
+Potri.011G052500	NA	Medium Expression	Protein of unknown function (DUF2921)
+Potri.017G140600	Not Expressed	Not Expressed	plastid-encoded CLP P
+Potri.013G099700	Medium Expression	Medium Expression	shoot gravitropism 2 (SGR2)
+Potri.005G095500	NA	Medium Expression	terpene synthase 21
+Potri.009G026400	NA	Not Expressed	unknown
+Potri.004G137600	NA	Low Expression	Protein kinase superfamily protein
+Potri.002G213400	High Expression	NA	sequence-specific DNA binding;sequence-specific DNA binding transcription factors
+Potri.017G044500	Medium Expression	NA	K-box region and MADS-box transcription factor family protein
+Potri.008G222700	NA	Low Expression	protein arginine methyltransferase 4A
+Potri.002G108600	High Expression	High Expression	Phosphoglycerate mutase family protein
+Potri.002G227700	Not Expressed	NA	unknown
+Potri.019G052400	Medium Expression	NA	unknown
+Potri.019G018600	Low Expression	NA	Protein of unknown function (DUF640)
+Potri.012G078700	High Expression	High Expression	aldehyde dehydrogenase 2B4
+Potri.001G432400	Not Expressed	NA	Acyl-CoA N-acyltransferases (NAT) superfamily protein
+Potri.017G075800	NA	Low Expression	catalytics
+Potri.011G004000	NA	Medium Expression	PR5-like receptor kinase
+Potri.019G080800	NA	High Expression	SPla/RYanodine receptor (SPRY) domain-containing protein
+Potri.011G070700	Not Expressed	NA	unknown
+Potri.006G143000	High Expression	NA	DENN (AEX-3) domain-containing protein
+Potri.006G158900	Not Expressed	NA	sulfate transporter 3;5
+Potri.017G079500	Medium Expression	NA	WRKY DNA-binding protein 72
+Potri.008G194200	Medium Expression	NA	glycine-rich protein
+Potri.008G037400	Low Expression	Low Expression	Protein kinase superfamily protein
+Potri.002G235800	NA	High Expression	PHYTOCYSTATIN 2
+Potri.011G157300	NA	Medium Expression	NAD(P)-binding Rossmann-fold superfamily protein
+Potri.001G438900	NA	Medium Expression	recA DNA recombination family protein
+Potri.002G085400	High Expression	NA	Peptidase M20/M25/M40 family protein
+Potri.014G047700	Not Expressed	NA	alpha/beta-Hydrolases superfamily protein
+Potri.012G085200	Not Expressed	Not Expressed	SKP1-like 11
+Potri.018G083100	Medium Expression	NA	RNA-binding protein-related
+Potri.004G093400	Not Expressed	Not Expressed	MATE efflux family protein
+Potri.009G047400	NA	Low Expression	Protein of unknown function (DUF803)
+Potri.009G117300	Low Expression	NA	cryptochrome-interacting basic-helix-loop-helix 1
+Potri.012G051300	NA	Medium Expression	TCP-1/cpn60 chaperonin family protein
+Potri.004G013400	High Expression	NA	arogenate dehydratase 1
+Potri.005G066100	Not Expressed	NA	GATA transcription factor 12
+Potri.005G026100	Low Expression	NA	Heavy metal transport/detoxification superfamily protein
+Potri.004G133500	NA	High Expression	cell division control 2
+Potri.010G041900	Low Expression	NA	unknown
+Potri.002G248100	NA	Low Expression	Tetratricopeptide repeat (TPR)-like superfamily protein
+Potri.008G224300	Not Expressed	Not Expressed	unknown
+Potri.002G113100	High Expression	NA	glycosyl hydrolase family 10 protein / carbohydrate-binding domain-containing protein
+Potri.010G092200	Low Expression	Low Expression	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+Potri.004G134700	Medium Expression	NA	RING/FYVE/PHD zinc finger superfamily protein
+Potri.012G141100	NA	Not Expressed	shortage in chiasmata 1
+Potri.014G185900	Not Expressed	Not Expressed	unknown
+Potri.013G139300	Not Expressed	NA	NADH-Ubiquinone oxidoreductase (complex I), chain 5 protein
