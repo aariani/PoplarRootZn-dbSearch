@@ -37,7 +37,7 @@ Alternatively you can clone with git by typing from the terminal:
 
 	git clone https://github.com/aariani/PoplarRootZn-dbSearch
 
-Within the PoplarRootZn-dbSearch open R and type:
+Within the PoplarRootZn-dbSearch folder open R and type:
 	
 	library(shiny)
 	runApp()
