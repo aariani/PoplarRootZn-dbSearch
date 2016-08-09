@@ -1,7 +1,7 @@
 ## ui.R
 
 shinyUI(fluidPage(
-	titlePanel('Visualize ChIP-Seq and RNA-seq data of Poplar'),
+	titlePanel('PoplarRootZn-dbSearch'),
 	tags$hr(),
 	sidebarPanel(
 		helpText('Explore genes identified by an integrated approach using ChIP-Seq and RNA-Seq datasets of ', em('Populus'), ' roots under excess zinc'),
