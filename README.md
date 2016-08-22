@@ -1,7 +1,6 @@
 # PoplarRootZn-dbSearch
 
 
-
 R shiny web app for searching and downloading results from a ChIP-Seq and RNA-Seq experiment in *Populus*.
 
 
@@ -43,8 +42,12 @@ Within the PoplarRootZn-dbSearch folder open R and type:
 	runApp()
 
 
+### How to cite this app
 
+If you will use this app for your research please cite [our published manuscript] (http://www.sciencedirect.com/science/article/pii/S0098847216301630) in Environmental and Experimental Botany:
 
+	Ariani, A., Romeo, S., Groover, A.T., Sebastiani, L., 2016. Comparative epigenomic and transcriptomic analysis of Populus roots under excess Zn. 
+	Environ. Exp. Bot. 132, 16–27. doi:10.1016/j.envexpbot.2016.08.005
 
 
 
