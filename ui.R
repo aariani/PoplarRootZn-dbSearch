@@ -20,7 +20,9 @@ shinyUI(fluidPage(
 			choices=c('All', 'High', 'Medium', 'Low', 'Not-Expressed')
 			),
 		tags$hr(),
-		downloadButton('downloaddata', 'Download')
+		downloadButton('downloaddata', 'Download'),
+		tags$hr(),
+		p('Please see the' , a(' original publication', href='http://www.sciencedirect.com/science/article/pii/S0098847216301630'), ' for more informations about this app')
 		),
 	mainPanel(
 		dataTableOutput('finaldata')
